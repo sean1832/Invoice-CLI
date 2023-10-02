@@ -2,6 +2,8 @@
 Invoice-CLI is a versatile C++ CLI application that leverages [OpenXLSX](https://github.com/troldal/OpenXLSX) and [Boost](https://www.boost.org/) libraries to generate, manage, and email invoices, allowing seamless batch writing to Excel files, exporting to PDFs, and provides a user-friendly command-line interface to meet all invoicing needs efficiently.
 > **Note:** This project is for my personal use and is not intended for public use. However, if you find it useful, feel free to use it.
 
+*Please note that this project is my first C++ project, so the code may not be the best. I am still learning C++ and will continue to improve the code quality.*
+
 ## Installation
 Download the latest release from the [releases](https://github.com/sean1832/Invoice-CLI/releases/latest).
 
