@@ -1,0 +1,12 @@
+{
+    "name": "Invoice-cli",
+    "version": "0.1.0.0",
+    "description": "A C++ tool for creating, managing, and emailing invoices in Excel and PDF formats.",
+    "author": "Zeke Zhang",
+    "license": "MIT",
+    "copyright": "Copyright (C) Zeke Zhang 2023",
+    "repository":{
+        "type": "git",
+        "url": ""
+    }
+}

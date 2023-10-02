@@ -1,0 +1,42 @@
+{
+    "path":{
+        "assets_dir": "assets",
+        "instance_dir": "instances",
+        "archive_dir": "archives",
+        "excel_template": "assets/Template.xlsx",
+        "profiles": "assets/profiles.json",
+        "credential": "assets/credential.json",
+        "config": "assets/config.json",
+        "executables": {
+            "main": "invoice.exe",
+            "excel_worker": "ExcelWorker.exe"
+        }
+    },
+    "settings": {
+        "excel_worker": {
+            "timeout": 10000,
+            "page_setup": {
+                "orientation": "portait",
+                "format": "A4",
+                "zoom": false,
+                "fit_to_width": 1,
+                "fit_to_height": false
+            }
+        },
+        "main": {
+            "timeout": 10000,
+            "default_text_editor": "code",
+            "text_editor": [
+                "code",
+                "notepad++",
+                "subline",
+                "vim",
+                "nvim",
+                "nano",
+                "vi",
+                "atom",
+                "notepad"
+            ]
+        }
+    }
+}

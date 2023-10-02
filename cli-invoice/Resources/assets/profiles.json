@@ -1,0 +1,49 @@
+{
+    "customers":[
+        {
+            "id": 1,
+            "name": "Jone Doe",
+            "phone": "0335646122",
+            "address": "This is a test address",
+            "default_param": {
+                "hours": 65.0,
+                "rate": 477.0,
+                "description": "Test description",
+                "gst_code": "Free"
+            },
+            "recipient_detail": {
+                "recipient_email": "recipient_1_email@gmail.com",
+                "subject" : "Test email",
+                "body" : "File is attached below..."
+            }
+        },
+        {
+            "id": 2,
+            "name": "Dan Joe",
+            "phone": "0354862104",
+            "address": "This is another test address",
+            "default_param": {
+                "hours": 8.0,
+                "rate": 654.0,
+                "description": "Something else",
+                "gst_code": "Free"
+            },
+            "recipient_detail": {
+                "recipient_email": "recipient_2_email@gmail.com",
+                "subject" : "Test email <dt>",
+                "body" : "File is attached below..."
+            }
+        }
+    ],
+    "provider" : {
+        "name": "Moe Frank",
+        "email": "your_email@gmail.com",
+        "phone": "5687435645",
+        "address": "xxxxxxxxxx",
+        "abn": "23135646132",
+        "payment_methods": "EFT Payment",
+        "bsb": "35689971",
+        "account_name": "Moe Frank",
+        "account_number": "65613664132"
+    }
+}
