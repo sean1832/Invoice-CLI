@@ -90,7 +90,7 @@ The invoice CLI requires a configuration file to run. There are three configurat
 
 ## Prerequisites (development)
 #### OpenXLSX
-Detail installation guide on openxlsx see [here](documentation\openxlsx_installation.md).
+Detail installation guide on openxlsx see [here](documentation/openxlsx_installation.md).
 
 Also see README.md in [openxlsx github repo](https://github.com/troldal/OpenXLSX) for more information.
 
