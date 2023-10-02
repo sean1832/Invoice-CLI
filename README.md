@@ -3,7 +3,7 @@ Invoice-CLI is a versatile C++ CLI application that leverages [OpenXLSX](https:/
 > **Note:** This project is for my personal use and is not intended for public use. However, if you find it useful, feel free to use it.
 
 ## Installation
-Download the latest release from the [releases]().
+Download the latest release from the [releases](https://github.com/sean1832/Invoice-CLI/releases/latest).
 
 ## Usage
 ```shell
